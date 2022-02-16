@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ankitamane14
 - 👀 I’m interested in Coding and Sketching.
 - 🌱 I’m currently in High School.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... through my email.
 
 <!---
